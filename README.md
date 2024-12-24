@@ -1,7 +1,5 @@
 # 🌟 Women's Safety Chatbot: Safeguard
 
-![Banner](https://via.placeholder.com/1000x250?text=Women%27s+Safety+Chatbot+%7C+Safeguard)
-
 ## 🚀 Introduction
 **Safeguard** is an AI-powered chatbot designed to assist women with safety-related information, guidance, and support. It leverages advanced machine learning and natural language processing technologies to provide reliable and empathetic responses.
 
