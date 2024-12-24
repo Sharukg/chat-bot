@@ -42,5 +42,5 @@ This chatbot empowers users by:
 - Pip package manager
 - Clone the repository:
   ```bash
-  git clone https://github.com/your-username/women-safety-chatbot.git
-  cd women-safety-chatbot
+  git clone https://github.com/your-username/chat-bot.git
+  cd chat-bot
